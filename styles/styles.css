@@ -1,0 +1,19 @@
+h1 {
+    color: green;
+    font-size: 50px;
+}
+#id-selector{
+    color: blue;
+    font-size: 30px;
+}
+.class-selector{
+    color: red;
+    font-size: 20px;
+}
+.class-sel{
+    color: brown;
+    font-size: 15px;
+}
+ body {
+    font-family: 'Poppins', sans-serif;
+ }
